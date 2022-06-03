@@ -1,1 +1,1 @@
-new.text
+cat > new.text
